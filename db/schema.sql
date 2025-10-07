@@ -1,3 +1,7 @@
+Create database people;
+
+
+
 CREATE TABLE tournaments (
   tournament_id SERIAL PRIMARY KEY,
   tournament_name VARCHAR(100),
